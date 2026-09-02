@@ -25,10 +25,11 @@ A structured Machine Learning journey documenting my progress from Python and da
 | 17 | Support Vector Machines (SVM) | ✅ Completed |
 | 18 | Random Forest | ✅ Completed |
 | 19 | K-Means Clustering | ✅ Completed |
+| 20 | Hierarchical Clustering | ✅ Completed |
 
 ## Current Focus
 
-The journey has now entered **Unsupervised Learning**, beginning with K-Means Clustering. Upcoming topics include Hierarchical Clustering, DBSCAN, PCA, Anomaly Detection, Hyperparameter Tuning, Model Optimization, End-to-End ML Projects, Deployment, and Deep Learning.
+The journey is progressing through **Unsupervised Learning**. Chapter 20 covered Hierarchical Clustering, including dendrograms, linkage methods, Agglomerative Clustering, and customer segmentation. Upcoming topics include DBSCAN, PCA, Anomaly Detection, Hyperparameter Tuning, Model Optimization, End-to-End ML Projects, Deployment, and Deep Learning.
 
 ## Practical Approach
 
@@ -46,11 +47,15 @@ Each chapter combines:
 ```text
 machine-learning-journey/
 ├── README.md
+├── requirements.txt
+├── .gitignore
 ├── notebooks/
-│   └── ML_Journey_Chapters_01-19.ipynb
+│   └── ML_Journey.ipynb
 ├── foundations/
 ├── supervised-learning/
 ├── unsupervised-learning/
+│   ├── k-means-clustering/
+│   └── hierarchical-clustering/
 ├── model-improvement/
 ├── end-to-end-projects/
 └── deep-learning/
