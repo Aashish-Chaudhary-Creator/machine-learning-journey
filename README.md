@@ -26,10 +26,11 @@ A structured Machine Learning journey documenting my progress from Python and da
 | 18 | Random Forest | ✅ Completed |
 | 19 | K-Means Clustering | ✅ Completed |
 | 20 | Hierarchical Clustering | ✅ Completed |
+| 21 | DBSCAN | ✅ Completed |
 
 ## Current Focus
 
-The journey is progressing through **Unsupervised Learning**. Chapter 20 covered Hierarchical Clustering, including dendrograms, linkage methods, Agglomerative Clustering, and customer segmentation. Upcoming topics include DBSCAN, PCA, Anomaly Detection, Hyperparameter Tuning, Model Optimization, End-to-End ML Projects, Deployment, and Deep Learning.
+The journey is progressing through **Unsupervised Learning**. Chapter 21 covered DBSCAN, including density-based clustering, `eps`, `min_samples`, core/border/noise points, parameter experimentation, and k-distance analysis. Upcoming topics include PCA, Anomaly Detection, Hyperparameter Tuning, Model Optimization, End-to-End ML Projects, Deployment, and Deep Learning.
 
 ## Practical Approach
 
@@ -55,7 +56,8 @@ machine-learning-journey/
 ├── supervised-learning/
 ├── unsupervised-learning/
 │   ├── k-means-clustering/
-│   └── hierarchical-clustering/
+│   ├── hierarchical-clustering/
+│   └── dbscan-clustering/
 ├── model-improvement/
 ├── end-to-end-projects/
 └── deep-learning/
