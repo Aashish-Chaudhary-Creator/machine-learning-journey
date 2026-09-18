@@ -27,10 +27,11 @@ A structured Machine Learning journey documenting my progress from Python and da
 | 19 | K-Means Clustering | ✅ Completed |
 | 20 | Hierarchical Clustering | ✅ Completed |
 | 21 | DBSCAN | ✅ Completed |
+| 22 | Principal Component Analysis (PCA) | ✅ Completed |
 
 ## Current Focus
 
-The journey is progressing through **Unsupervised Learning**. Chapter 21 covered DBSCAN, including density-based clustering, `eps`, `min_samples`, core/border/noise points, parameter experimentation, and k-distance analysis. Upcoming topics include PCA, Anomaly Detection, Hyperparameter Tuning, Model Optimization, End-to-End ML Projects, Deployment, and Deep Learning.
+The journey is progressing through **Unsupervised Learning**. Chapter 22 covered Principal Component Analysis (PCA), including standardization, dimensionality reduction, principal components, explained variance, scree plots, cumulative variance, and 4D-to-2D visualization using the Iris dataset. Upcoming topics include Anomaly Detection, Hyperparameter Tuning, Model Optimization, End-to-End ML Projects, Deployment, and Deep Learning.
 
 ## Practical Approach
 
@@ -57,7 +58,8 @@ machine-learning-journey/
 ├── unsupervised-learning/
 │   ├── k-means-clustering/
 │   ├── hierarchical-clustering/
-│   └── dbscan-clustering/
+│   ├── dbscan-clustering/
+│   └── pca/
 ├── model-improvement/
 ├── end-to-end-projects/
 └── deep-learning/
