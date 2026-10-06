@@ -28,10 +28,11 @@ A structured Machine Learning journey documenting my progress from Python and da
 | 20 | Hierarchical Clustering | ✅ Completed |
 | 21 | DBSCAN | ✅ Completed |
 | 22 | Principal Component Analysis (PCA) | ✅ Completed |
+| 23 | Anomaly Detection — Isolation Forest | ✅ Completed |
 
 ## Current Focus
 
-The journey is progressing through **Unsupervised Learning**. Chapter 22 covered Principal Component Analysis (PCA), including standardization, dimensionality reduction, principal components, explained variance, scree plots, cumulative variance, and 4D-to-2D visualization using the Iris dataset. Upcoming topics include Anomaly Detection, Hyperparameter Tuning, Model Optimization, End-to-End ML Projects, Deployment, and Deep Learning.
+The journey is progressing through **Unsupervised Learning**. Chapter 23 covered Anomaly Detection using Isolation Forest, including anomaly detection concepts, normal vs anomalous observations, isolation-based detection, anomaly scores, evaluation, and contamination experiments. Upcoming topics include Hyperparameter Tuning, Model Optimization, End-to-End ML Projects, Deployment, and Deep Learning.
 
 ## Practical Approach
 
@@ -59,7 +60,9 @@ machine-learning-journey/
 │   ├── k-means-clustering/
 │   ├── hierarchical-clustering/
 │   ├── dbscan-clustering/
-│   └── pca/
+│   ├── pca/
+│   └── anomaly-detection/
+│       └── Chapter23_Anomaly_Detection.md
 ├── model-improvement/
 ├── end-to-end-projects/
 └── deep-learning/
