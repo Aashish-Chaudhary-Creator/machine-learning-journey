@@ -63,8 +63,12 @@ machine-learning-journey/
 │   ├── dbscan-clustering/
 │   ├── pca/
 │   └── anomaly-detection/
-│       └── Chapter23_Anomaly_Detection.md
+│       ├── Chapter23_Anomaly_Detection.md
+│       └── MLJourney23.ipynb
 ├── model-improvement/
+│   └── hyperparameter-tuning/
+│       ├── Chapter24_Hyperparameter_Tuning.md
+│       └── MLJourney24.ipynb
 ├── end-to-end-projects/
 └── deep-learning/
 ```
