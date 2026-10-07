@@ -29,10 +29,11 @@ A structured Machine Learning journey documenting my progress from Python and da
 | 21 | DBSCAN | ✅ Completed |
 | 22 | Principal Component Analysis (PCA) | ✅ Completed |
 | 23 | Anomaly Detection — Isolation Forest | ✅ Completed |
+| 24 | Hyperparameter Tuning | ✅ Completed |
 
 ## Current Focus
 
-The journey is progressing through **Unsupervised Learning**. Chapter 23 covered Anomaly Detection using Isolation Forest, including anomaly detection concepts, normal vs anomalous observations, isolation-based detection, anomaly scores, evaluation, and contamination experiments. Upcoming topics include Hyperparameter Tuning, Model Optimization, End-to-End ML Projects, Deployment, and Deep Learning.
+The journey is now moving into **Model Improvement**. Chapter 24 covered Hyperparameter Tuning using Grid Search, 5-fold Cross-Validation, GridSearchCV, Random Forest hyperparameters, and baseline vs tuned model evaluation. Upcoming topics include further Model Optimization, End-to-End ML Projects, Deployment, and Deep Learning.
 
 ## Practical Approach
 
